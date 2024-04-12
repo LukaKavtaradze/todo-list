@@ -1,0 +1,22 @@
+.bg-mobile-dark{
+  background-image: url("/assets/bg-mobile-dark.jpg");
+}
+
+.bg-desktop-dark {
+  background-image: url("/assets/bg-desktop-dark.jpg");
+}
+
+.bg-check-button {
+  background-image: linear-gradient(135deg, #5df, #c058f3);
+}
+
+.bg-desktop-light {
+  background-image: url("/assets/bg-desktop-light.jpg");
+}
+
+
+p:hover{
+  cursor: pointer;
+  color: #e3e4f1;                             
+  
+}
